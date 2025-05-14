@@ -1,6 +1,6 @@
-<h1 align="Left">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+SeanXiao!+👋;+I'm+SeanXiao!;" />
-</h1>
+<div align="Left">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+SeanXiao!+😊👍🎶👍!;+Welcome!;" />
+</div>
 
 ![SeanXiao's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeanXiao&show_icons=true&theme=radical)
 
